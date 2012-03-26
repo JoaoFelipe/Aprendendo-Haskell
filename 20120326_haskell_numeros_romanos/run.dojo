@@ -1,0 +1,1 @@
+ghc --make TestNumerosRomanos -o TestNumerosRomanos.test && ./TestNumerosRomanos.test
