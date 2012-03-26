@@ -1,0 +1,1 @@
+ghc --make TestFizzbuzz -o TestFizzbuzz.test && ./TestFizzbuzz.test
