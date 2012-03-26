@@ -1,0 +1,1 @@
+ghc --make TestRomanToArabic -o TestRomanToArabic.test && ./TestRomanToArabic.test
