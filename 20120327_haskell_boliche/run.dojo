@@ -1,0 +1,1 @@
+ghc --make TestBoliche -o TestBoliche.test && ./TestBoliche.test
