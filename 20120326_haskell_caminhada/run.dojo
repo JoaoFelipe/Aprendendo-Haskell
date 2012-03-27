@@ -1,0 +1,1 @@
+ghc --make TestCaminhada -o TestCaminhada.test && ./TestCaminhada.test
