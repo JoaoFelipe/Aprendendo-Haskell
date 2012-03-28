@@ -1,0 +1,1 @@
+ghc --make TestBolao -o TestBolao.test && ./TestBolao.test
