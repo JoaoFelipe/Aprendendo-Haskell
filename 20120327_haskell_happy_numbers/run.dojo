@@ -1,0 +1,1 @@
+ghc --make TestHappyNumbers -o TestHappyNumbers.test && ./TestHappyNumbers.test
